@@ -1,7 +1,6 @@
 import os
 import time
 import json
-import threading
 import pandas as pd
 from bs4 import BeautifulSoup
 from selenium import webdriver
